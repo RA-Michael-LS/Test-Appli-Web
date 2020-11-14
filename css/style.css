@@ -1,0 +1,84 @@
+.fa.fa-user {
+	font-size: 50px;
+}
+
+.fa.fa-power-off {
+	font-size: 20px;
+	color: red;
+}
+
+.carte {
+	border-radius: 50px;
+	background-color: lightblue;
+	box-shadow: -0px 5px 50px blue;
+}
+
+.entrer{
+	border-radius: 5px;
+}
+
+.navi {
+	text-align: center;
+
+}
+.nav2{
+	background-color: #343a40!important;
+}
+
+.titre {
+	padding-top: 13px;
+	padding-left: 10px;
+	font-family: Century Schoolbook;
+	color: red;
+}
+.bordure {
+	border-radius: 25px;
+	box-shadow: -0px 5px 25px blue;
+}
+
+.tableau {
+	border-bottom: 3px solid;
+	color: blue
+}
+
+.tableau2{
+	box-shadow: -0px 5px 10px;
+}
+
+.texte{
+	color: white
+}
+
+.bla{
+	text-align: center;
+}
+
+
+footer {
+  background-color: lightblue;
+  color: red;
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Old English Text MT;
+  bottom: 0px;
+  left: 0px;
+}
+
+h3 {
+	font-family: Bookman Old Style;
+}
+
+h5, a, h6, th, td, {
+	font-family: Comic Sans MS;
+}
+
+input::-webkit-input-placeholder {
+	color: red;
+	font-family: Comic Sans MS;
+}
+
+.login {
+	margin-top: 10%
+}
